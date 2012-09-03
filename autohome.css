@@ -22,7 +22,7 @@ border-radius:1px 10px 10px;
 -webkit-border-radius:10px 10px 10px;
 font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
 -moz-border-radius:10px 10px 10px;
-background-color:green;
+background-color:DimGray ;
 padding:20px;
 text-align:center;
 }
@@ -30,32 +30,3 @@ a:link {color:black;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
 a:hover {color:white;}  /* mouse over link */
 a:active {color:white;}  /* selected link */
-
-
-z
-{
-text-decoration:none;
-width:100px;
-height:75px;
-border-color:black;
-border-top:1px solid;
-border-bottom:1px solid;
-border-right:1px solid;
-border-left:1px solid;
-border-radius:1px 10px 10px;
--o-border-radius:10px 10px 10px;
--webkit-border-radius:10px 10px 10px;
-font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
--moz-border-radius:10px 10px 10px;
-background-color:red;
-padding:20px;
-text-align:center;
-}
-z:link {color:white;}      /* unvisited link */
-z:visited {color:white;}  /* visited link */
-z:hover {color:white;}  /* mouse over link */
-z:active {color:white;}  /* selected link */
-
-
-
-
