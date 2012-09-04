@@ -1,0 +1,35 @@
+#sidebar MakingOfArduinoControllerBoard
+
+
+=https://lh6.googleusercontent.com/-Z0n2MvkIaK4/UEXCJMeLGQI/AAAAAAAAAQs/JX_aS-0iqF8/s960/Logo.jpg=
+<g:plusone size="medium"></g:plusone>
+
+
+=Setting Up Arduino IDE=
+
+
+
+
+Now first of all you should have an Arduino IDE it is free Arduino compiler. You can go on the link and download it to your system.
+
+
+For windows: http://arduino.googlecode.com/files/arduino-1.0.1-windows.zip
+
+
+For Mac OS X: http://arduino.googlecode.com/files/arduino-1.0.1-macosx.zip
+
+
+For Linux 32 Bit: http://arduino.googlecode.com/files/arduino-1.0.1-linux.tgz
+
+
+For Linux 64 Bit: http://arduino.googlecode.com/files/arduino-1.0.1-linux64.tgz
+
+
+The open-source Arduino environment makes it easy to write code and upload it to the i/o board. It runs on Windows, Mac OS X, and Linux. The environment is written in Java and based on Processing, avr-gcc, and other open source software.
+After you finish downloading make a Folder in C Drive Program Files with the name “Arduino” and extract all content of the download source in this folder and you are ready to go.
+
+
+Here is the link to the video which explain about Arduino and how to use it.
+
+
+<wiki:video url="http://www.youtube.com/watch?v=qUl0qen3_-s"/>
