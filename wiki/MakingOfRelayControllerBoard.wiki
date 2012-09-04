@@ -1,6 +1,6 @@
-#sidebar GettingStarted
+=https://lh6.googleusercontent.com/-Z0n2MvkIaK4/UEXCJMeLGQI/AAAAAAAAAQs/JX_aS-0iqF8/s960/Logo.jpg=    
 
-=https://lh6.googleusercontent.com/-Z0n2MvkIaK4/UEXCJMeLGQI/AAAAAAAAAQs/JX_aS-0iqF8/s960/Logo.jpg=    <g:plusone></g:plusone>
+<g:plusone></g:plusone>
 
 
 =Relay Controller Board Build Tutorial:=
