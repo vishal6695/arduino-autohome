@@ -68,3 +68,7 @@ https://lh5.googleusercontent.com/--vwz81-skHA/UEXCg637yTI/AAAAAAAAASc/SMVU-OztH
 
 ==Note:== 
 *All the usual warnings apply: Main voltage (120VAC or 220VAC) can kill you. This project, done incorrectly, could certainly burn down your house. Have your pet spayed or neutered. Shampoo is better. Do not work on or solder to any part of a project while it is plugged into the wall - just unplug it!*
+
+
+==Project By:== 
+*Dhiraj Jadhao*
