@@ -1,4 +1,4 @@
-=http://code.google.com/p/arduino-autohome/logo?cct=1346860749=
+=https://lh3.googleusercontent.com/-SvVrD4dIvJQ/UEeFSkbCBqI/AAAAAAAAAWU/Peg4F1xC1d4/s160/Logo+small.jpg=
 
 * [http://code.google.com/p/arduino-autohome/wiki/GettingStarted Getting Started]
 
