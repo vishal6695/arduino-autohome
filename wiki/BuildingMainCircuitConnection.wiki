@@ -6,7 +6,7 @@
 ==Building Main Circuit Connection==
 
 
-Now we are ready with our Relay controller board. So, it’s time to move on to the Main Circuit Connections. Here I have given the pin configuration for the whole AutoHome Project.
+Now we are ready with our Relay controller board. So, it’s time to move on to the Main Circuit Connections. Here I have given the pin configuration for the whole Autohome Project.
 
 
 
@@ -51,6 +51,4 @@ https://lh5.googleusercontent.com/-CtwI9yteHwA/UEpeUhk07qI/AAAAAAAAAYI/GP51yCa09
 
 
 So build it and test all connection properly before proceeding.
-
-
 
