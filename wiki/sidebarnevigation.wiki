@@ -7,3 +7,5 @@
 * [http://code.google.com/p/arduino-autohome/wiki/SettingUpArduinoIDE Setting Up Arduino IDE]
 
 * [http://code.google.com/p/arduino-autohome/wiki/GettingIPAddressOfArduinoEthernetShield Getting IP Address Of Arduino Ethernet Shield]
+
+* [http://code.google.com/p/arduino-autohome/wiki/BuildingMainCircuitConnection Building Main Circuit Connection]
