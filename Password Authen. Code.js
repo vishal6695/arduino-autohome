@@ -1,16 +1,8 @@
-<script language="javascript">
-<!--//
-/*This Script allows people to enter by using a form that asks for a
-UserID and Password*/
-function pasuser(form) {
-if (form.id.value=="dhirajjadhao") {
-if (form.pass.value=="radhekrishna") {
-location="http://192.168.1.102"
-} else {
-alert("Invalid Password")
-}
-} else {  alert("Invalid UserID")
-}
-}
-//-->
+<script language="JavaScript">
+var password;
+var pass1="password";
+password=prompt('Enter Password To Log in to Arduino AutoHome',' ');
+if (password==pass1) 
+alert('WelCome To Arduino AutoHome');
+else { alert('Incorrect Password!'); }
 </script>
